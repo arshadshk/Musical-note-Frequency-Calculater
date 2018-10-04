@@ -2,17 +2,16 @@
 python code to calculate all the frequencies given a single SA freq.
 
 
-# Users welcomed to shorten the code.
+ Users welcomed to shorten the code.
 
 
-######   RELATIONS USED HERE ARE  ############
-#                                            #
-#     SA : GA : PA = 4:5:6 = MA : DHA : SA'  #
-#                                            #
-##############################################
+RELATIONS USED HERE ARE  
+                                           
+    SA : GA : PA = 4:5:6 = MA : DHA : SA'  
+                                          
 
-#Followind derived from above relations.
-#X=C/4
+Followind derived from above relations.
+X=C/4
 #Y=G/4
 #Z=C2/6
 
